@@ -1,0 +1,11 @@
+$width: 300px;
+
+#recipe_title, #recipe_category_id  {
+  width: $width;
+}
+
+#recipe_ingredients, #recipe_instructions {
+  width: $width;
+  height: $width/3;
+  
+}
